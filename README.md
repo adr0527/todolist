@@ -5,3 +5,4 @@ First app with SASS
 - SASS
 - localStorage / Persistant Data
 - JS Classes
+- Accessibility First Design
